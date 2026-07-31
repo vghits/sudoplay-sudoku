@@ -35,11 +35,11 @@ El desarrollo se realizó aplicando conceptos de programación, modularización,
 
 ### Menú principal
 
-![Menú principal](NOMBRE-DE-TU-IMAGEN.png)
+![Menu Principal](Inicio.png)
 
 ### Partida
 
-![Partida](NOMBRE-DE-TU-OTRA-IMAGEN.png)
+![Partida](Partida.png)
 
 ##  Estructura del proyecto
 
