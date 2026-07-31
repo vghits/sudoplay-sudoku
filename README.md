@@ -53,3 +53,28 @@ sudoplay-sudoku/
 ├── sonidos/
 ├── README.md
 └── .gitignore
+
+## Cómo ejecutar el proyecto
+
+### Requisitos
+
+- Python 3.13
+- Pygame
+
+### Instalación
+
+Instalar Pygame mediante:
+
+```bash
+py -3.13 -m pip install pygame
+
+## Ejecucion
+
+```bash
+py -3.13 juegodefinitivo.py
+
+##Contexto académico
+
+Proyecto desarrollado como evaluación académica durante la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional — Facultad Regional Avellaneda.
+
+Valentín Ghitarroni / Estudiante de Tecnicatura Universitaria en Programación.
